@@ -1,5 +1,5 @@
 
-# Anomaly Detection for MDD using REST-meta-MDD rs-fMRI Data
+# Anomaly Detection for MDD
 
 This repository contains code for Project II: unsupervised anomaly detection in Major Depressive Disorder (MDD) using rs-fMRI data from the REST-meta-MDD dataset. The goal is to detect deviations from normative functional connectivity patterns using graph-based autoencoder models.
 
